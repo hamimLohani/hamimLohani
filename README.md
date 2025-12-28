@@ -32,8 +32,8 @@
 
 | Project | Description | Technologies | Video |
 |---------|-------------|--------------|-------|
-| **[system_suite](https://github.com/hamim-24/system_suite)** | A comprehensive terminal-based system maintenance and monitoring toolkit for macOS, Linux, and Unix-like systems. | ![Shell](https://img.shields.io/badge/Shell-3E474E?style=for-the-badge&logo=gnu-bash&logoColor=white) |  [YouTube](https://youtu.be/W2TKm4A-wA8) |
-| **[Shell command search_package](https://github.com/hamim-24/Shell/blob/main/script_5_condition.sh)** | using this command on macOS, search package, package, install package | ![Shell](https://img.shields.io/badge/Shell-3E474E?style=for-the-badge&logo=gnu-bash&logoColor=white) |  [YouTube](https://youtube.com/shorts/ptvYw94-gpA?feature=share) |
+| **[system_suite](https://github.com/hamimLohani/system_suite)** | A comprehensive terminal-based system maintenance and monitoring toolkit for macOS, Linux, and Unix-like systems. | ![Shell](https://img.shields.io/badge/Shell-3E474E?style=for-the-badge&logo=gnu-bash&logoColor=white) |  [YouTube](https://youtu.be/W2TKm4A-wA8) |
+| **[Shell command search_package](https://github.com/hamimLohani/Shell/blob/main/script_5_condition.sh)** | using this command on macOS, search package, package, install package | ![Shell](https://img.shields.io/badge/Shell-3E474E?style=for-the-badge&logo=gnu-bash&logoColor=white) |  [YouTube](https://youtube.com/shorts/ptvYw94-gpA?feature=share) |
 <!--| **[...](https://github.com/hamim-24)** | ... | ![Shell](https://img.shields.io/badge/Shell-3E474E?style=for-the-badge&logo=gnu-bash&logoColor=white) |  [YouTube](https://) | -->
 
 </div>
@@ -43,12 +43,12 @@
 
 | Project | Description | Technologies | Video |
 |---------|-------------|--------------|-------|
-| **[ESP32 Smart Bus System - Complete IoT Solution](https://github.com/hamim-24/Arduino/tree/main/ESP32_SmartBus_Complete)** | The ESP32 Smart Bus System is a comprehensive, standalone IoT solution that transforms any ESP32 development board into a fully functional smart bus management system. This system integrates multiple sensors, NFC/RFID technology, web-based management, and advanced analytics to provide a complete public transportation solution. | ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) |  [YouTube](https://youtu.be/IAaWOxlj5Uk?si=RlyleMouVgLrwDz7) |
-| **[Hand Gesture LED Controller](https://github.com/hamim-24/Python-project-with-arduino/tree/main/Gesture-control-led)** | A real-time hand gesture recognition system that controls Arduino LEDs based on finger counting using computer vision and PyFirmata. | ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) |  [YouTube](https://youtu.be/iXlBBXdPgvs?si=HKOLDvGgmM9atVWg) |
-| **[ESP32 WiFi Chat with LCD Display](https://github.com/hamim-24/Arduino/tree/main/ESP-comunication-A)** | This project demonstrates a simple two-way chat system between two ESP32 development boards using WiFi. Messages are sent and received over a local network, displayed on an I2C LCD, and indicated by LED lights. | ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) |  [YouTube](https://youtu.be/HzUp_aHiSuI) |
-| **[ESP32 LED Controller via Web Server (SoftAP Mode)](https://github.com/hamim-24/Arduino/tree/main/Blink-from-same-network)** | This project allows you to control two LEDs using your ESP32 board as a Wi-Fi access point and host a web interface directly—no internet required. | ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) |  [YouTube](https://youtu.be/MZUKWzrqBG8?si=z-xyZrmUW_iHY8cv) |
-| **[Smart Access & Detection System using Arduino](https://github.com/hamim-24/Arduino/tree/main/Aurduino-Project-1)** | In this project we will make a autometic gate that can track object and ask for scanner card and then password. If both are correct then it opens the gate for 5 seconds | ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) |  [YouTube](https://youtu.be/ZN6U60bTtPA) |
-| **[Basic Arduino code](https://github.com/hamim-24/Arduino)** | Led Blink, Servo, RFID, Ultrasonic sensor | ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) |
+| **[ESP32 Smart Bus System - Complete IoT Solution](https://github.com/hamimLohani/Arduino/tree/main/ESP32_SmartBus_Complete)** | The ESP32 Smart Bus System is a comprehensive, standalone IoT solution that transforms any ESP32 development board into a fully functional smart bus management system. This system integrates multiple sensors, NFC/RFID technology, web-based management, and advanced analytics to provide a complete public transportation solution. | ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) |  [YouTube](https://youtu.be/IAaWOxlj5Uk?si=RlyleMouVgLrwDz7) |
+| **[Hand Gesture LED Controller](https://github.com/hamimLohani/Python-project-with-arduino/tree/main/Gesture-control-led)** | A real-time hand gesture recognition system that controls Arduino LEDs based on finger counting using computer vision and PyFirmata. | ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) |  [YouTube](https://youtu.be/iXlBBXdPgvs?si=HKOLDvGgmM9atVWg) |
+| **[ESP32 WiFi Chat with LCD Display](https://github.com/hamimLohani/Arduino/tree/main/ESP-comunication-A)** | This project demonstrates a simple two-way chat system between two ESP32 development boards using WiFi. Messages are sent and received over a local network, displayed on an I2C LCD, and indicated by LED lights. | ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) |  [YouTube](https://youtu.be/HzUp_aHiSuI) |
+| **[ESP32 LED Controller via Web Server (SoftAP Mode)](https://github.com/hamimLohani/Arduino/tree/main/Blink-from-same-network)** | This project allows you to control two LEDs using your ESP32 board as a Wi-Fi access point and host a web interface directly—no internet required. | ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) |  [YouTube](https://youtu.be/MZUKWzrqBG8?si=z-xyZrmUW_iHY8cv) |
+| **[Smart Access & Detection System using Arduino](https://github.com/hamimLohani/Arduino/tree/main/Aurduino-Project-1)** | In this project we will make a autometic gate that can track object and ask for scanner card and then password. If both are correct then it opens the gate for 5 seconds | ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) |  [YouTube](https://youtu.be/ZN6U60bTtPA) |
+| **[Basic Arduino code](https://github.com/hamimLohani/Arduino)** | Led Blink, Servo, RFID, Ultrasonic sensor | ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) |
 <!--| **[...](https://github.com/hamim-24)** | ... | ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) |  [YouTube](https://) | -->
 
 </div>
@@ -59,9 +59,9 @@
 
 | Project | Description | Technologies | Video |
 |---------|-------------|--------------|-------|
-| **[Student-management](https://github.com/hamim-24/Student-management)** | The Student Management System is a comprehensive Java-based desktop application designed to streamline the management of academic records, exams, and user accounts within an educational institution. Built using Java Swing for the graphical user interface (GUI), the system supports multiple user roles—administrators, teachers, and students—each with tailored access and functionality. The application enables efficient handling of student and teacher data, exam creation and participation, automated grading, and result management, all within an intuitive and user-friendly interface. |![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![Swing](https://img.shields.io/badge/Swing-32CD32?style=for-the-badge&logoColor=white)|  [YouTube](https://youtu.be/lJYRH86ixzg?si=nVJuy3YpUcjxY9SI) |
-| **[Simple-logIn-signIn-Frame](https://github.com/hamim-24/Simple-logIn-signIn-form)** | A Java Swing application that provides user registration and login functionality with a graphical user interface. |![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![Swing](https://img.shields.io/badge/Swing-32CD32?style=for-the-badge&logoColor=white)|
-| **[Player Registration Form (Java Swing)](https://github.com/hamim-24/Registration-form)** | A simple desktop application built with Java Swing that allows users to fill out and save player registration data. It demonstrates how to build interactive GUI apps using layout managers, event listeners, file handling, and form validation in Java. | ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![Swing](https://img.shields.io/badge/Swing-32CD32?style=for-the-badge&logoColor=white) |  [LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7350180621308092417/) |
+| **[Student-management](https://github.com/hamimLohani/Student-management)** | The Student Management System is a comprehensive Java-based desktop application designed to streamline the management of academic records, exams, and user accounts within an educational institution. Built using Java Swing for the graphical user interface (GUI), the system supports multiple user roles—administrators, teachers, and students—each with tailored access and functionality. The application enables efficient handling of student and teacher data, exam creation and participation, automated grading, and result management, all within an intuitive and user-friendly interface. |![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![Swing](https://img.shields.io/badge/Swing-32CD32?style=for-the-badge&logoColor=white)|  [YouTube](https://youtu.be/lJYRH86ixzg?si=nVJuy3YpUcjxY9SI) |
+| **[Simple-logIn-signIn-Frame](https://github.com/hamimLohani/Simple-logIn-signIn-form)** | A Java Swing application that provides user registration and login functionality with a graphical user interface. |![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![Swing](https://img.shields.io/badge/Swing-32CD32?style=for-the-badge&logoColor=white)|
+| **[Player Registration Form (Java Swing)](https://github.com/hamimLohani/Registration-form)** | A simple desktop application built with Java Swing that allows users to fill out and save player registration data. It demonstrates how to build interactive GUI apps using layout managers, event listeners, file handling, and form validation in Java. | ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![Swing](https://img.shields.io/badge/Swing-32CD32?style=for-the-badge&logoColor=white) |  [LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7350180621308092417/) |
 <!--| **[...](https://github.com/hamim-24/)** | ... | ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white) |  [YouTube](https://) | -->
 
 </div>
@@ -72,9 +72,9 @@
 
 | Project | Description | Technologies | Video |
 |---------|-------------|--------------|-------|
-| **[Banking Management System](https://github.com/hamim-24/Bank-management-system-in-c)** | A comprehensive terminal-based banking management system written in C. This application provides complete banking functionality including account management, transactions, and administrative controls. | ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white) | [YouTube](https://www.youtube.com/watch?v=UjnEz5AukyA) |
-| **[Monkey Type - Terminal Typing Speed Test](https://github.com/hamim-24/Typing-speed-test)** | A terminal-based typing speed test game written in C using the ncurses library. Test your typing skills with different difficulty levels and track your progress over time. | ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white) | [YouTube](https://youtu.be/VvIpiOxFmP8) |
-| **[Exam Management System](https://github.com/hamim-24/exam-system)** | A comprehensive console-based exam management system written in C that allows administrators to create, manage, and conduct exams while providing students with a user-friendly interface to take exams and view results. | ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white) | [YouTube](https://youtu.be/bQbf_HAfFG8?si=XyYnNxC26QJzA0NI) |
+| **[Banking Management System](https://github.com/hamimLohani/Bank-management-system-in-c)** | A comprehensive terminal-based banking management system written in C. This application provides complete banking functionality including account management, transactions, and administrative controls. | ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white) | [YouTube](https://www.youtube.com/watch?v=UjnEz5AukyA) |
+| **[Monkey Type - Terminal Typing Speed Test](https://github.com/hamimLohani/Typing-speed-test)** | A terminal-based typing speed test game written in C using the ncurses library. Test your typing skills with different difficulty levels and track your progress over time. | ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white) | [YouTube](https://youtu.be/VvIpiOxFmP8) |
+| **[Exam Management System](https://github.com/hamimLohani/exam-system)** | A comprehensive console-based exam management system written in C that allows administrators to create, manage, and conduct exams while providing students with a user-friendly interface to take exams and view results. | ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white) | [YouTube](https://youtu.be/bQbf_HAfFG8?si=XyYnNxC26QJzA0NI) |
 <!--| **[...](https://github.com/yourusername/filesystem-sim)** | ... | ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white) |  [YouTube](https://) | -->
 
 </div>
@@ -114,29 +114,29 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hamim-24&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=hamimLohani&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamim-24&layout=compact&theme=radical&hide_border=true&langs_count=20" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamimLohani&layout=compact&theme=radical&hide_border=true&langs_count=20" alt="Top Languages" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hamim-24&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hamimLohani&theme=radical&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ## 🏆 GitHub Trophies
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hamim-24&theme=radical&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=hamimLohani&theme=radical&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophies" />
 </div>
 
 ## 📈 Activity Graph
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hamim-24&theme=react-dark&hide_border=true" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hamimLohani&theme=react-dark&hide_border=true" alt="Activity Graph" />
 </div>
 
 ## 🌱 Currently Learning
-- **Course - [Software Engineering](https://github.com/hamim-24/Software-Engineering-Course) at IIT-DU**
+- **Course - [Software Engineering](https://github.com/hamimLohani/Software-Engineering-Course) at IIT-DU**
 - **Advanced Data Structures & Algorithms**
 - **Embedded Systems Programming**
 - **Machine Learning for Robotics**
@@ -150,11 +150,11 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-inzamamul-lohani-9b133a237/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hamim-24)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hamimLohani/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hamimLohani)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hamimlohani@gamil.com)
-[![FaceBook](https://img.shields.io/badge/FaceBook-000000?style=for-the-badge&logo=react&logoColor=white)](https://web.facebook.com/md.inzamamul.lohani.hamim)
-[![YouTube](https://img.shields.io/badge/YouTube-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://www.youtube.com/@MdInzamamulLohani)
+[![FaceBook](https://img.shields.io/badge/FaceBook-000000?style=for-the-badge&logo=react&logoColor=white)](https://web.facebook.com/hamimLohani)
+[![YouTube](https://img.shields.io/badge/YouTube-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://www.youtube.com/@hamimLohani)
 
 </div>
 <!--
@@ -179,7 +179,7 @@
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=hamim-24&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=hamimLohani&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
 </div>
 
 <div align="center">
