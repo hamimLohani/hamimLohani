@@ -32,9 +32,10 @@
 
 | Project | Description | Technologies | Video |
 |---------|-------------|--------------|-------|
+| **[run-cplex](https://github.com/hamimLohani/run-cplex)** | A simple bash script to compile and run Java programs that use IBM CPLEX optimization library. | ![Shell](https://img.shields.io/badge/Shell-3E474E?style=for-the-badge&logo=gnu-bash&logoColor=white) | - |
 | **[system_suite](https://github.com/hamimLohani/system_suite)** | A comprehensive terminal-based system maintenance and monitoring toolkit for macOS, Linux, and Unix-like systems. | ![Shell](https://img.shields.io/badge/Shell-3E474E?style=for-the-badge&logo=gnu-bash&logoColor=white) |  [YouTube](https://youtu.be/W2TKm4A-wA8) |
 | **[Shell command search_package](https://github.com/hamimLohani/Shell/blob/main/script_5_condition.sh)** | using this command on macOS, search package, package, install package | ![Shell](https://img.shields.io/badge/Shell-3E474E?style=for-the-badge&logo=gnu-bash&logoColor=white) |  [YouTube](https://youtube.com/shorts/ptvYw94-gpA?feature=share) |
-<!--| **[...](https://github.com/hamim-24)** | ... | ![Shell](https://img.shields.io/badge/Shell-3E474E?style=for-the-badge&logo=gnu-bash&logoColor=white) |  [YouTube](https://) | -->
+<!--| **[...](https://github.com/hamimLohani)** | ... | ![Shell](https://img.shields.io/badge/Shell-3E474E?style=for-the-badge&logo=gnu-bash&logoColor=white) |  [YouTube](https://) | -->
 
 </div>
 
@@ -49,7 +50,7 @@
 | **[ESP32 LED Controller via Web Server (SoftAP Mode)](https://github.com/hamimLohani/Arduino/tree/main/Blink-from-same-network)** | This project allows you to control two LEDs using your ESP32 board as a Wi-Fi access point and host a web interface directly—no internet required. | ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) |  [YouTube](https://youtu.be/MZUKWzrqBG8?si=z-xyZrmUW_iHY8cv) |
 | **[Smart Access & Detection System using Arduino](https://github.com/hamimLohani/Arduino/tree/main/Aurduino-Project-1)** | In this project we will make a autometic gate that can track object and ask for scanner card and then password. If both are correct then it opens the gate for 5 seconds | ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) |  [YouTube](https://youtu.be/ZN6U60bTtPA) |
 | **[Basic Arduino code](https://github.com/hamimLohani/Arduino)** | Led Blink, Servo, RFID, Ultrasonic sensor | ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) |
-<!--| **[...](https://github.com/hamim-24)** | ... | ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) |  [YouTube](https://) | -->
+<!--| **[...](https://github.com/hamimLohani)** | ... | ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) |  [YouTube](https://) | -->
 
 </div>
 
@@ -62,7 +63,7 @@
 | **[Student-management](https://github.com/hamimLohani/Student-management)** | The Student Management System is a comprehensive Java-based desktop application designed to streamline the management of academic records, exams, and user accounts within an educational institution. Built using Java Swing for the graphical user interface (GUI), the system supports multiple user roles—administrators, teachers, and students—each with tailored access and functionality. The application enables efficient handling of student and teacher data, exam creation and participation, automated grading, and result management, all within an intuitive and user-friendly interface. |![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![Swing](https://img.shields.io/badge/Swing-32CD32?style=for-the-badge&logoColor=white)|  [YouTube](https://youtu.be/lJYRH86ixzg?si=nVJuy3YpUcjxY9SI) |
 | **[Simple-logIn-signIn-Frame](https://github.com/hamimLohani/Simple-logIn-signIn-form)** | A Java Swing application that provides user registration and login functionality with a graphical user interface. |![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![Swing](https://img.shields.io/badge/Swing-32CD32?style=for-the-badge&logoColor=white)|
 | **[Player Registration Form (Java Swing)](https://github.com/hamimLohani/Registration-form)** | A simple desktop application built with Java Swing that allows users to fill out and save player registration data. It demonstrates how to build interactive GUI apps using layout managers, event listeners, file handling, and form validation in Java. | ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![Swing](https://img.shields.io/badge/Swing-32CD32?style=for-the-badge&logoColor=white) |  [LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7350180621308092417/) |
-<!--| **[...](https://github.com/hamim-24/)** | ... | ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white) |  [YouTube](https://) | -->
+<!--| **[...](https://github.com/hamimLohani/)** | ... | ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white) |  [YouTube](https://) | -->
 
 </div>
 
@@ -75,7 +76,7 @@
 | **[Banking Management System](https://github.com/hamimLohani/Bank-management-system-in-c)** | A comprehensive terminal-based banking management system written in C. This application provides complete banking functionality including account management, transactions, and administrative controls. | ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white) | [YouTube](https://www.youtube.com/watch?v=UjnEz5AukyA) |
 | **[Monkey Type - Terminal Typing Speed Test](https://github.com/hamimLohani/Typing-speed-test)** | A terminal-based typing speed test game written in C using the ncurses library. Test your typing skills with different difficulty levels and track your progress over time. | ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white) | [YouTube](https://youtu.be/VvIpiOxFmP8) |
 | **[Exam Management System](https://github.com/hamimLohani/exam-system)** | A comprehensive console-based exam management system written in C that allows administrators to create, manage, and conduct exams while providing students with a user-friendly interface to take exams and view results. | ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white) | [YouTube](https://youtu.be/bQbf_HAfFG8?si=XyYnNxC26QJzA0NI) |
-<!--| **[...](https://github.com/yourusername/filesystem-sim)** | ... | ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white) |  [YouTube](https://) | -->
+<!--| **[...](https://github.com/hamimLohani/)** | ... | ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white) |  [YouTube](https://) | -->
 
 </div>
 
