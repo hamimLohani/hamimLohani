@@ -26,6 +26,23 @@
 
 ## 🚀 Featured Projects
 
+### 🤖 Robotics Projects
+<div align="center">
+
+| Project | Description | Technologies | Video |
+|---------|-------------|--------------|-------|
+| **[AgroSense](https://github.com/hamimLohani/Smart-Weather-Soil-Moisture-Detection-App)** | A JavaFX desktop application for managing a fleet of IoT weather/soil-moisture monitoring devices, built for the Design Patterns Lab Final Project. | ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) |  [YouTube](https://youtu.be/mfO7GibmYR8?si=coP3S-G4JWuK7fiv) |
+| **[Smart Multi-Plug-Firmware](https://github.com/hamimLohani/smart-multiplug-firmware)** | The Smart Multi-Plug is a WiFi-controlled smart power strip powered by the ESP8266 (NodeMCU) microcontroller. | ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) |  [YouTube](https://youtu.be/S4y2Y5nRX88?si=wG9PPGMmeDoYeQaE) |
+| **[ESP32 Smart Bus System - Complete IoT Solution](https://github.com/hamimLohani/ESP32_SmartBus_Complete.git)** | The ESP32 Smart Bus System is a comprehensive, standalone IoT solution that transforms any ESP32 development board into a fully functional smart bus management system. This system integrates multiple sensors, NFC/RFID technology, web-based management, and advanced analytics to provide a complete public transportation solution. | ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) |  [YouTube](https://youtu.be/IAaWOxlj5Uk?si=RlyleMouVgLrwDz7) |
+| **[Hand Gesture LED Controller](https://github.com/hamimLohani/Python-project-with-arduino/tree/main/Gesture-control-led)** | A real-time hand gesture recognition system that controls Arduino LEDs based on finger counting using computer vision and PyFirmata. | ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) |  [YouTube](https://youtu.be/iXlBBXdPgvs?si=HKOLDvGgmM9atVWg) |
+| **[ESP32 WiFi Chat with LCD Display](https://github.com/hamimLohani/Arduino/tree/main/ESP-comunication-A)** | This project demonstrates a simple two-way chat system between two ESP32 development boards using WiFi. Messages are sent and received over a local network, displayed on an I2C LCD, and indicated by LED lights. | ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) |  [YouTube](https://youtu.be/HzUp_aHiSuI) |
+| **[ESP32 LED Controller via Web Server (SoftAP Mode)](https://github.com/hamimLohani/Arduino/tree/main/Blink-from-same-network)** | This project allows you to control two LEDs using your ESP32 board as a Wi-Fi access point and host a web interface directly—no internet required. | ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) |  [YouTube](https://youtu.be/MZUKWzrqBG8?si=z-xyZrmUW_iHY8cv) |
+| **[Smart Access & Detection System using Arduino](https://github.com/hamimLohani/Arduino/tree/main/Aurduino-Project-1)** | In this project we will make a autometic gate that can track object and ask for scanner card and then password. If both are correct then it opens the gate for 5 seconds | ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) |  [YouTube](https://youtu.be/ZN6U60bTtPA) |
+| **[Basic Arduino code](https://github.com/hamimLohani/Arduino)** | Led Blink, Servo, RFID, Ultrasonic sensor | ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) |
+<!--| **[...](https://github.com/hamimLohani)** | ... | ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) |  [YouTube](https://) | -->
+
+</div>
+
 ### Websites
 <div align="center">
 
@@ -51,22 +68,7 @@
 
 </div>
 
-### 🤖 Robotics Projects
-<div align="center">
 
-| Project | Description | Technologies | Video |
-|---------|-------------|--------------|-------|
-| **[AgroSense](https://github.com/hamimLohani/Smart-Weather-Soil-Moisture-Detection-App)** | A JavaFX desktop application for managing a fleet of IoT weather/soil-moisture monitoring devices, built for the Design Patterns Lab Final Project. | ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) |  [YouTube](https://youtu.be/mfO7GibmYR8?si=coP3S-G4JWuK7fiv) |
-| **[Smart Multi-Plug-Firmware](https://github.com/hamimLohani/smart-multiplug-firmware)** | The Smart Multi-Plug is a WiFi-controlled smart power strip powered by the ESP8266 (NodeMCU) microcontroller. | ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) |  [YouTube](https://youtu.be/S4y2Y5nRX88?si=wG9PPGMmeDoYeQaE) |
-| **[ESP32 Smart Bus System - Complete IoT Solution](https://github.com/hamimLohani/ESP32_SmartBus_Complete.git)** | The ESP32 Smart Bus System is a comprehensive, standalone IoT solution that transforms any ESP32 development board into a fully functional smart bus management system. This system integrates multiple sensors, NFC/RFID technology, web-based management, and advanced analytics to provide a complete public transportation solution. | ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) |  [YouTube](https://youtu.be/IAaWOxlj5Uk?si=RlyleMouVgLrwDz7) |
-| **[Hand Gesture LED Controller](https://github.com/hamimLohani/Python-project-with-arduino/tree/main/Gesture-control-led)** | A real-time hand gesture recognition system that controls Arduino LEDs based on finger counting using computer vision and PyFirmata. | ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) |  [YouTube](https://youtu.be/iXlBBXdPgvs?si=HKOLDvGgmM9atVWg) |
-| **[ESP32 WiFi Chat with LCD Display](https://github.com/hamimLohani/Arduino/tree/main/ESP-comunication-A)** | This project demonstrates a simple two-way chat system between two ESP32 development boards using WiFi. Messages are sent and received over a local network, displayed on an I2C LCD, and indicated by LED lights. | ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) |  [YouTube](https://youtu.be/HzUp_aHiSuI) |
-| **[ESP32 LED Controller via Web Server (SoftAP Mode)](https://github.com/hamimLohani/Arduino/tree/main/Blink-from-same-network)** | This project allows you to control two LEDs using your ESP32 board as a Wi-Fi access point and host a web interface directly—no internet required. | ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) |  [YouTube](https://youtu.be/MZUKWzrqBG8?si=z-xyZrmUW_iHY8cv) |
-| **[Smart Access & Detection System using Arduino](https://github.com/hamimLohani/Arduino/tree/main/Aurduino-Project-1)** | In this project we will make a autometic gate that can track object and ask for scanner card and then password. If both are correct then it opens the gate for 5 seconds | ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) |  [YouTube](https://youtu.be/ZN6U60bTtPA) |
-| **[Basic Arduino code](https://github.com/hamimLohani/Arduino)** | Led Blink, Servo, RFID, Ultrasonic sensor | ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) |
-<!--| **[...](https://github.com/hamimLohani)** | ... | ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) |  [YouTube](https://) | -->
-
-</div>
 
 
 ### 💻 Java Projects
